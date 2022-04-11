@@ -1,13 +1,13 @@
 Learning Java part 1:
-* algorithms
-* arrays
-* cutstrings
-* datainput
-* debug
-* exceptions
-* externaljar
-* files
-* filesnio
-* methods
-* multiarrays
-* strings
+* Algorithms
+* Arrays
+* Cut strings
+* Data input
+* Debug
+* Exceptions
+* External jar
+* Files
+* Filesnio
+* Methods
+* Multi dimensional arrays
+* Strings
